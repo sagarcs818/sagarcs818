@@ -1,17 +1,46 @@
 ![Profile views](https://komarev.com/ghpvc/?username=code2Renovate)
 
-# 👋 Hey there, I'm **Sagar Raj**
-### aka **code2Renovate** 🚀
+<h1 align="center">
+Hi 👋, I'm <b>Sagar Raj</b>
+</h1>
 
-Welcome to my GitHub space — where **curiosity drives learning** and code turns ideas into reality.
+<h3 align="center">
+🚀 AI & Machine Learning Enthusiast | Cybersecurity Learner | IoT Explorer
+</h3>
 
-I’m a passionate learner exploring **AI & Machine Learning**, **Cybersecurity fundamentals**, and **IoT & Embedded Systems**.  
-I enjoy understanding how systems work beneath the surface, building intelligent solutions, and learning how technology can be designed and secured **ethically**.
+<p align="center">
+Curiosity drives learning and code turns ideas into reality.
+</p>
 
-Currently, I’m focused on:
-- Strengthening my **AI/ML foundations**
-- Learning **core cybersecurity concepts & tools**
-- Exploring **embedded systems and IoT fundamentals**
+<p align="center">
+<a href="https://github.com/code2Renovate">
+<img src="https://img.shields.io/badge/GitHub-code2Renovate-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/sagarcs">
+<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Raj-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:sr.cse818@gmail.com">
+<img src="https://img.shields.io/badge/Email-sr.cse818%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Learner;Cybersecurity+Explorer;IoT+%26+Embedded+Systems+Learner;Python+Developer;Building+Projects+While+Learning">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🌱 Strengthening **AI & Machine Learning foundations**
+* 🔐 Learning **Cybersecurity tools & ethical security**
+* 🔌 Exploring **IoT & Embedded Systems**
+* 🧠 Curious about **how systems work internally**
+* 🚀 Building projects to solve **real-world problems**
 
 ```python
 curiosity = True
@@ -21,13 +50,13 @@ while curiosity:
     experiment()
     build()
     improve()
-````
+```
 
 ---
 
 ## 🧰 Skills & Technologies
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
 ### 🌐 Frontend (Learning & Practicing)
 
@@ -72,7 +101,6 @@ while curiosity:
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-Fundamentals-blue?style=for-the-badge)
-![Security Concepts](https://img.shields.io/badge/Security-Core_Concepts-informational?style=for-the-badge)
 
 ---
 
